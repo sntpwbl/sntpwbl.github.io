@@ -1,0 +1,258 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{margin: 0;
+  padding: 0;
+}
+
+#container{
+  margin:auto;
+  width: 400px;
+  height: 800px;
+  background-color: #f7f7f7
+}
+
+header{
+  width: 400px;
+  height: 356px;
+}
+
+img{
+  width: 400px;
+  height: 356px;
+}
+
+#buscar{
+  font-size: 16px;
+  width: 320px;
+  height: 50px  ;
+  border-radius: 5px;
+  margin-top: 25px;
+  margin-left: 30px;
+  padding-left: 25px;
+  border: none;
+  outline: none; 
+}
+
+
+#img_fundo{
+  width: 400px;
+  height: 360px;
+  margin-bottom: -340px;
+}
+
+#img_buscar{
+  width: 25px;
+  height: 25px;
+  filter: opacity(0.3);
+  margin-left: -50px;
+  margin-bottom: -5px;
+}
+
+#p_hum{
+  width: 340px;
+  height: 60px;
+  font-size: 36px;
+  font-family: 'roboto', 'sans-serif';
+  font-weight: 700;
+  text-transform: uppercase;
+  color: #fff;
+  margin-top: 130px;
+  margin-left: 25px;
+}
+
+#slide_floresta{
+  width: 140px;
+  height: 150px;
+  margin-top: 40px;
+  margin-left: 20px;
+  border-radius: 5px 5px 0px 0px;
+}
+
+#folha{
+  width: 25px;
+  height: 25px;
+  filter: opacity(0.3);
+  margin-left: 125px;
+  margin-top: -70px;
+  margin-bottom: 25px;
+}
+
+#p_dois{
+  color: black;
+  text-transform: capitalize;
+  width: 125px;
+  height: 30px;
+  background-color: aliceblue;
+  border-radius: 0px 0px 5px 5px;
+  font-family: 'Roboto';
+  margin-left: 20px;
+  padding-left: 15px;
+  padding-top: 20px;
+  margin-top: -7px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 
+              0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+#slide_praia{
+  width: 140px;
+  height: 150px;
+  margin-top: -230px;
+  margin-left: 180px;
+  margin-bottom: 79px;
+  border-radius: 5px 5px 0 0;
+}
+
+#barquinho{
+  width: 25px;
+  height: 25px;
+  filter: opacity(0.3);
+  margin-left: 280px;
+  margin-top: -90px;
+  margin-bottom: 25px;
+}
+
+
+#p_tres{
+  color: black;
+  text-transform: capitalize;
+  width: 125px;
+  height: 30px;
+  background-color: aliceblue;
+  border-radius: 0px 0px 5px 5px;
+  font-family: 'Roboto';
+  margin-left: 180px;
+  padding-left: 15px;
+  padding-top: 23px;
+  margin-top: -90px;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2), 
+              0 4px 8px rgba(0, 0, 0, 0.2);
+
+}
+
+#slide_montanhas{
+ 
+  width: 140px;
+  height: 150px;
+  margin-left: 40px;
+  margin-top: -200px;
+}
+
+#footer{
+width: 400px;
+height: 170px;
+background-color: #222;
+}
+
+#p_saiba_mais{
+color: #f7f7f7;
+font-size: 16px;
+font-family: 'roboto', 'sans-serif';
+font-weight: 700;
+text-transform: uppercase;
+padding-left: 40px;
+padding-top: 25px;
+}
+
+#ret_hm{
+width: 2px;
+height: 8px;
+margin-top: -130px;
+background-color: black;
+margin-left: 40px;
+}
+
+#p_empresa{
+font-size: 12px;
+font-family: 'roboto', 'sans-serif';
+font-weight: 400;
+color: #cfcfcf;
+margin-top: -145px;
+margin-left: 50px;
+}
+
+#ret_dois{
+  width: 2px;
+  height: 8px;
+  margin-top: -152px;
+  background-color: #cfcfcf;
+  margin-left: 40px;
+  margin-bottom: 17px;
+  filter: opacity(0.2);
+}
+
+#p_perguntas{
+  font-family: 'roboto', 'sans-serif';
+  font-weight: 400;
+  font-size: 12px;
+  color: #cfcfcf;
+  margin-left: 230px;
+  margin-bottom:  30px;
+  margin-top: -33px;
+  text-transform: capitalize;
+}
+
+#linha_hm{
+width: 350px;
+height: 1px;
+margin-left: 25px;
+margin-top: -40px;
+background-color: #2e2e2e;
+margin-bottom: 50px;
+}
+
+#p_vagas_abertas{
+  font-family: 'roboto', 'sans-serif';
+  font-weight: 400;
+  font-size: 12px;
+  color: #cfcfcf;
+  text-transform: capitalize;
+  margin-top: -45px;
+  margin-left: 50px;
+}
+
+#ret_tres{
+width: 2px;
+height: 8px;
+background-color: #cfcfcf;
+margin-top: -125px;
+margin-left: 40px;
+margin-bottom: 18px;
+filter: opacity(0.2);
+}
+
+ #p_meios_de_pagamentos{
+
+  font-family: 'roboto', 'sans-serif';
+  font-weight: 400;
+  font-size: 12px;
+  color: #cfcfcf;
+  text-transform: capitalize;
+  margin-top: -32px;
+  margin-left: 230px;
+ }
+
+ #ret_quatro{
+  width: 2px;
+  height: 8px;
+  background-color: #2e2e2e;
+  margin-top: -12px;
+  margin-left: 220px;
+  margin-bottom: 40px;
+ }
+
+ #ret_perg{
+  width: 2px;
+  height: 8px;
+  background-color: #2e2e2e;
+  margin-top: -185px;
+  margin-left: 220px;
+  margin-bottom: 48px;
+ }
+ #linhadois{
+  width: 350px;
+  height: 1px;
+  margin-left: 25px;
+  margin-top: -40px;
+  background-color: #2e2e2e;
+  margin-bottom: 40px;
+ }
